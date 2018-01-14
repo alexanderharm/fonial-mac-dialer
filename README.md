@@ -24,7 +24,7 @@ This plugin is based on/inspired by David Kreitschmann's (@neffs) `Snom.scpt` pl
 
 ### 3. Installation
 
-* Laden sie die neueste Version von der Releases page
+* Laden sie die [neueste Version](https://github.com/alexanderharm/fonial-mac-dialer/releases/latest)
 * Entpacken sie die Datei
 
 ##### a) Geführte Installation
@@ -69,7 +69,7 @@ This plugin is based on/inspired by David Kreitschmann's (@neffs) `Snom.scpt` pl
 
 ### 3. Installation
 
-* Get the latest release
+* Get the [latest release](https://github.com/alexanderharm/fonial-mac-dialer/releases/latest)
 * Unzip
 
 ##### a) Guided install
