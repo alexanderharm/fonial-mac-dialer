@@ -1,5 +1,7 @@
 # fonial-mac-dialer
 
+***Does not work anymore under macOS Mojave (10.14.x) and newer!***
+
 An unofficial AppleScript plugin to enable dialling from the Contacts app via [fonial.de](https://www.fonial.de/)
 
 This plugin is based on/inspired by David Kreitschmann's (@neffs) `Snom.scpt` plugin ([https://github.com/k3com/mac_dialer]()).
